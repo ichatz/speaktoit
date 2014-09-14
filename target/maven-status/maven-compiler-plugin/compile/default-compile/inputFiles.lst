@@ -1,0 +1,16 @@
+/home/ichatz/Local/speaktoit/src/main/java/ai/api/model/QuestionMetadata.java
+/home/ichatz/Local/speaktoit/src/main/java/com/sensorflare/speaktoit/Application.java
+/home/ichatz/Local/speaktoit/src/main/java/ai/api/AIDataService.java
+/home/ichatz/Local/speaktoit/src/main/java/ai/api/AIServiceException.java
+/home/ichatz/Local/speaktoit/src/main/java/ai/api/model/AIResponse.java
+/home/ichatz/Local/speaktoit/src/main/java/com/sensorflare/speaktoit/HomeController.java
+/home/ichatz/Local/speaktoit/src/main/java/ai/api/model/Metadata.java
+/home/ichatz/Local/speaktoit/src/main/java/ai/api/http/HttpClient.java
+/home/ichatz/Local/speaktoit/src/main/java/ai/api/AIConfiguration.java
+/home/ichatz/Local/speaktoit/src/main/java/ai/api/AIListener.java
+/home/ichatz/Local/speaktoit/src/main/java/ai/api/model/Status.java
+/home/ichatz/Local/speaktoit/src/main/java/ai/api/model/AIRequest.java
+/home/ichatz/Local/speaktoit/src/main/java/ai/api/model/AIError.java
+/home/ichatz/Local/speaktoit/src/main/java/ai/api/model/Result.java
+/home/ichatz/Local/speaktoit/src/main/java/ai/api/model/Constants.java
+/home/ichatz/Local/speaktoit/src/main/java/ai/api/GsonFactory.java

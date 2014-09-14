@@ -1,0 +1,17 @@
+ai/api/AIDataService.class
+ai/api/AIListener.class
+ai/api/http/HttpClient.class
+ai/api/GsonFactory.class
+ai/api/model/Metadata.class
+ai/api/AIConfiguration.class
+ai/api/AIServiceException.class
+com/sensorflare/speaktoit/Application.class
+ai/api/model/AIResponse.class
+ai/api/model/Status.class
+ai/api/model/QuestionMetadata.class
+ai/api/model/Result.class
+com/sensorflare/speaktoit/HomeController.class
+ai/api/AIConfiguration$RecognitionEngine.class
+ai/api/model/AIError.class
+ai/api/model/AIRequest.class
+ai/api/model/Constants.class
