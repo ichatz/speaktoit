@@ -122,7 +122,6 @@ public class HomeController {
                 connection.disconnect();
             }
         }
-
     }
 
 }
